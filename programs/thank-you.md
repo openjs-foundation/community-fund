@@ -1,6 +1,6 @@
 # Thank You Program
 
-The thank you program currently supports thank you's to contributors inthe
+The thank you program currently supports thank yous to contributors in the
 JavaScript ecosystem through:
 
 * [Yearly collaborator awards at OpenJS World each year](./yearly-awards.md)
