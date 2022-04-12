@@ -1,4 +1,4 @@
-# Yearly collabor awards at OpenJS World
+# Yearly collaborator awards at OpenJS World
 
 Awards are made in the following categories each year:
 * Outstanding new contributor
