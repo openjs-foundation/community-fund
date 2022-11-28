@@ -14,6 +14,8 @@ It is strongly recommended that you submit your request far enough in advance to
 
 ## Reimbursement
 
+The following LFX system and instructions are not yet active. Please send an email over to operations@openjsf.org or reach out to Foundation staff on the OpenJS Foundation Slack.
+
 All reimbursement is done though the Linux Foundation LFX Crowdfunding platform. Once your request is approved and your travel is complete you can request reimbursement by:
 
 1. Accepted applicants file reimbursement request on [community fund’s LFX site](https://community-fund.openjsf.org).
