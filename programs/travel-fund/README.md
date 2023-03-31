@@ -53,5 +53,12 @@ Travel requests in this category are approved by the Cross Project Council. A re
   ### Step Two: Submit Expenses
 After the event file your expenses using [this form](https://form.asana.com/?k=S6lGzAjHv2uv7M8llnhO_w&d=9283783873717). 
 
+* You will need to fill out and attach these [two forms](https://drive.google.com/drive/folders/1E-dTuqnIWpZN2NP-1ioAWzK_W2zSwa_P?usp=share_link)
+* Please attach all receipts, expenses without receipts can not be paid
+* Expense reports must be submitted after the event and within 30 days of the event date
+* Payments are generally processed within 30 days
+* You may use 3rd party software such as Expensify to create an expense report, please ensure all receipts are included and are legible on the submitted report
+* Please direct any questions to operations@openjsf.org or reach out to Foundation staff on the OpenJS Foundation Slack
+
 
 
